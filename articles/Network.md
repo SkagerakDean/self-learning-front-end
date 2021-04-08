@@ -1,0 +1,15 @@
+# 网络(HTTP)
+1. TCP
+2. DNS：
+* IP
+* 域名
+3. HTTP
+* 状态码
+* 请求头
+* 返回头
+* cookie
+* 缓存策略
+4. https
+5. CDN
+6. websocket
+7. HTTP2
